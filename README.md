@@ -14,7 +14,7 @@ So I take the strategy of mapping:
 * [Learning Objective](#learning-objective)
 * [Study Snippet](#study-snippet)
 * [Helpful Links](#helpful-links)
-* [More Practice](https://elewa-academy.github.io/block-scope-let-vs-var)
+* [More Practice](https://elewa-academy.github.io/12345-345)
 
 ___
 
